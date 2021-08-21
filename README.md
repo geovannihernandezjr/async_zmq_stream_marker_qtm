@@ -1,4 +1,5 @@
 # async_zmq_stream_marker_qtm
+created to stream mocap data from Qualisys Tracking Manager (QTM) to client using PYTHON in asynchronous manner.
 Using QTM python sdk to obtain the data in real-time and be able to transmit that to another client
 
 python version >= 3.7
